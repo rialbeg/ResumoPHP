@@ -10,7 +10,7 @@ echo PI;
 
 //ou
 
-const PI = 3.1415;
+//const PI = 3.1415;
 
 // checar se uma constante foi definida
 
@@ -62,4 +62,4 @@ function sum2(int $x, int $y)
     return $x + $y;
 }
 
-sum2(3, '5');
+//sum2(3, '5');
